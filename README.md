@@ -1,2 +1,3 @@
 # helloworld
-default-project
+## start app
+node server.js
